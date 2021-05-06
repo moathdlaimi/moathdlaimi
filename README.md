@@ -3,7 +3,7 @@
 ###### I'm a Software Engineer based in Austin, TX. Passionate about anything tech and the impact it make around the world!
 
 #### Let's get in touch :wave:
-##### [Linkedin](https://www.linkedin.com/in/moathdlaimi/)| ##### [Portfolio](https://moathdlaimi.com/)
+##### [Linkedin](https://www.linkedin.com/in/moathdlaimi/)  |  [Portfolio](https://moathdlaimi.com/)
 
 
 
