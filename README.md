@@ -1,4 +1,4 @@
-### Hi, I'm Moath :man_technologist:
+# :man_technologist: Hi, I'm Moath
 
 <!--
 **moathdlaimi/moathdlaimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
