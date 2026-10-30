@@ -1,23 +1,12 @@
-# :man_technologist: Hello
-###### I'm a Software Developer based in Austin, TX. Passionate about anything tech and the impact it make around the world!
+# Moath Dlaimi
+**Software Development · Systems Integration · Solutions Engineering**  
+📍 Bay Area
 
-#### Let's get in touch :wave:
-##### [Linkedin](https://www.linkedin.com/in/moathdlaimi/)  |  [Portfolio](https://moathdlaimi.com/)
+I build software and bring complex systems into production. My experience spans **application development, enterprise integrations, and payment technology**, connecting business requirements with engineering and delivery.
 
+I’ve worked with enterprise customers and engineering teams to develop applications, integrate APIs, and deploy solutions across **80+ locations and 300+ devices**.
 
+My technical background includes **JavaScript, React, Angular, Node.js, Express, and SQL**. My current focus is **AI-enabled applications and workflow automation**, grounded in hands-on development and enterprise implementation experience.
 
-
-<!--
-**moathdlaimi/moathdlaimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect
+[LinkedIn](https://www.linkedin.com/in/moathdlaimi/)
